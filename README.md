@@ -1,1 +1,1 @@
-# humig
+# this is repository for our project
